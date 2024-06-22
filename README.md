@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bsarge88, Bruce Sargent
+- 👋 Hi, I’m Bruce Sargent
 - Retired from Procare Software
 - 👀 I’m interested in Sql Server, DBT, AWS, Python, C#, datawarehousing, data lakes
 - 🌱 I’m currently learning how to contribute to the dbt-sqlserver project
